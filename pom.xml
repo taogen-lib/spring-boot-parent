@@ -22,7 +22,7 @@
 	<properties>
 		<!-- 1. dependencies -->
 		<!-- web basic -->
-		<spring-boot.version>2.7.1</spring-boot.version>
+		<spring-boot.version>2.7.0</spring-boot.version>
 		<springfox.version>3.0.0</springfox.version>
 		<!-- data access -->
 		<mybatis-plus-starter.version>3.5.2</mybatis-plus-starter.version>
