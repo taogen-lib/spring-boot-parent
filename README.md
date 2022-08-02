@@ -6,7 +6,8 @@ Add the parent
 <parent>
 	<groupId>com.github.taogen-lib</groupId>
 	<artifactId>spring-boot-parent</artifactId>
-	<version>-SNAPSHOT</version>
+    <!-- -SNAPSHOT equals master-SNAPSHOT, main-SNAPSHOT for SNAPSHOT of the main branch-->
+	<version>main-SNAPSHOT</version>
 </parent>
 ```
 
