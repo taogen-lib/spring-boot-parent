@@ -21,3 +21,14 @@ Add the [JitPack](https://jitpack.io/#taogen-lib/spring-boot-parent) repository 
 	</repository>
 </repositories>
 ```
+## Check for updated dependencies in repository
+
+```shell
+# Display new versions
+mvn versions:display-dependency-updates
+mvn versions:display-plugin-updates
+# Update dependency versions from properties
+mvn versions:update-properties
+# Update the parent version
+mvn versions:update-parent 
+```
